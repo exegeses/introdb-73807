@@ -7,10 +7,10 @@
 
     CREATE TABLE nombreTabla   
     (  
-        nombreCampo1 tipoDato ...,
-        nombreCampo2 tipoDato ....,
-        nombreCampo3 tipoDato ....,
-        nombreCampo4 tipoDato ....
+        nombreCampo1 tipoDato características,
+        nombreCampo2 tipoDato características,
+        nombreCampo3 tipoDato características,
+        nombreCampo4 tipoDato características
     );
 
 
@@ -18,14 +18,10 @@
 
     CREATE TABLE personas  
     (
-        id ,
-        apellido ,
-        nombre , 
-        dni int unsigned,
-        alta
+        id tinyint unsigned auto_increment primary key not null,  
+        apellido varchar(40) not null,  
+        nombre varchar(40) not null,  
+        dni int unsigned unique not null,  
+        alta date not null  
     );
-
-
-
-
 
