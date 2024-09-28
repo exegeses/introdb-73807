@@ -1,0 +1,30 @@
+id;aerolinea;url;telefono;activo
+1;Aerol?neas Argentinas;www.aerolineas.com.ar;0810-222-86527;1
+2;Lade;lade.faa.mil.ar;0810-810-5233;1
+3;Flybondi;www.flybondi.com;351-284-3320;1
+4;Jet Smart;www.jetsmart.com;11-2206-7799;1
+5;Aerom?xico;www.aeromexico.com;0800-888-2276;1
+6;Air Canada;www.aircanada.com;0800-345-1540;1
+7;Air Europa;www.aireuropa.com;0810-122-4546;1
+8;Air France;www.airfrance.com.ar;0800-666-0133;1
+9;Amaszonas Uruguay;www.amaszonas.com;11-3985-8800;1
+10;American Airlines;www.aa.com;0800-444-84253;1
+11;Azul Linhas A?reas;www.voeazul.com.br;11-5984-5178;1
+12;Avianca;www.avianca.com;0810-333-8222;1
+13;Boliviana de Aviaci?n;www.boa.bo;11-5252-3409;1
+14;British Airways;www.britishairways.com;0800-222-0075;1
+15;Copa Airlines;www.copaair.com;0810-810-2672;1
+16;Cubana;www.cubana.cu;11-4326-5291;1
+17;Delta Airlines;www.delta.com;0800-666-0133;1
+18;Ethiopian Airlines;www.ethiopianairlines.com;4326-0362;1
+19;Gol;www.voegol.com;0810-266-3131;1
+20;Iberia;www.iberia.com;0810-999-4237;1
+21;KLM;www.klm.com;11-4317-4700;1
+22;Latam;www.latamairlines.com/ar;0800-345-9410;1
+23;Level;www.flylevel.com;11-5984-5995;1
+24;Lufthansa;www.lufthansa.com;11-3991-5953;1
+25;Paranair;www.paranair.com;11-5273-4081;1
+26;Qatar;www.qatarairways.com;11-5273-1400;1
+27;Sky Airline;www.skyairline.com;11-5480-5138;1
+28;Turkish Airlines;www.turkishairlines.com;11-5984-2758;1
+29;United Airlines;www.united.com;0810-777-8648;1
