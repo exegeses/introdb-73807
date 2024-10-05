@@ -17,9 +17,11 @@ create table productos
     idProducto mediumint unsigned auto_increment primary key not null,
     prdNombre varchar(45) unique not null,
     prdPrecio decimal(8,2) unsigned not null,
-    idMarca tinyint not null,
-    idCategoria tinyint not null,
+    idMarca tinyint unsigned not null,
+    idCategoria tinyint unsigned not null,
     prdDescripcion varchar(1000) not null,
     prdImagen varchar(45) not null,
-    prdActivo boolean not null
-)
+    prdActivo boolean not null,
+    foreign key (idMarca) references marcas (idMarca),
+    foreign key (idCategoria) references categorias (idCategoria)
+);
